@@ -94,8 +94,8 @@ CountryVec <- c(
     .HTAtable tr:nth-child(`r which(CountryVec == "Germany")`) td:nth-child(5) { background: `r greenhex`;color:black; }
     .HTAtable tr:nth-child(`r which(CountryVec == "Ireland")`) td:nth-child(3) { background: `r yellowhex`;color:black; }
     .HTAtable tr:nth-child(`r which(CountryVec == "Ireland")`) td:nth-child(5) { background: `r greenhex`;color:black; }
-    .HTAtable tr:nth-child(`r which(CountryVec == "Italy")`) td:nth-child(3) { background: `r greenhex`;color:black; }
-    .HTAtable tr:nth-child(`r which(CountryVec == "Italy")`) td:nth-child(5) { background: `r greenhex`;color:black; }
+    .HTAtable tr:nth-child(`r which(CountryVec == "Italy")`) td:nth-child(3) { background: `r yellowhex`;color:black; }
+    .HTAtable tr:nth-child(`r which(CountryVec == "Italy")`) td:nth-child(5) { background: `r yellowhex`;color:black; }
     .HTAtable tr:nth-child(`r which(CountryVec == "New Zealand")`) td:nth-child(3) { background: `r yellowhex`;color:black; }
     .HTAtable tr:nth-child(`r which(CountryVec == "Norway")`) td:nth-child(3) { background: `r greenhex`;color:black; }
     .HTAtable tr:nth-child(`r which(CountryVec == "Norway")`) td:nth-child(5) { background: `r greenhex`;color:black; }
